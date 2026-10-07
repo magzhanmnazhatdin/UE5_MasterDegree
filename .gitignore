@@ -1,0 +1,27 @@
+# Временные папки сборки и кэша UE
+Binaries/*
+DerivedDataCache/*
+Intermediate/*
+Saved/*
+
+# Автогенерируемые файлы IDE
+.vs/
+.idea/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Логи и сборки
+Build/*
+!Build/
+Build/*/*
+!Build/*/
+Build/*/*/*
+!Build/*/*/
+*.log
+
+# Локальные файлы и кэш шейдеров
+FileOpenOrder/*
+DerivedDataCache/
