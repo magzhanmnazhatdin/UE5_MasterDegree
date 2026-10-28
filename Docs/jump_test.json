@@ -1,0 +1,10 @@
+{
+  "passed": true,
+  "x": 9140.07408180753,
+  "z": 592.1500031803582,
+  "max_z": 719.699315187801,
+  "jump_z_velocity": 500.0,
+  "sprint_speed": 600.0,
+  "input": "IA_Sprint + IA_Move + IA_Jump",
+  "gap_cm": 450
+}

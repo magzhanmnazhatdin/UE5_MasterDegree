@@ -1,0 +1,72 @@
+[
+  {
+    "name": "spawn",
+    "class_name": "BP_Megan_C",
+    "position": "<Struct 'Vector' (0x000001A3A4BD9190) {x: 250.000000, y: 0.000000, z: 592.150000}>",
+    "movement_speed": 250.0,
+    "cameras": [
+      "<Object '/Game/Midterm/Maps/UEDPIE_0_Lvl_SignalVault.Lvl_SignalVault:PersistentLevel.BP_Megan_C_0.FollowCamera' (0x000001A3B7FAE400) Class 'CameraComponent'>"
+    ]
+  },
+  {
+    "name": "barrier_before_power",
+    "x": 1851.558992266655
+  },
+  {
+    "name": "checkpoint",
+    "transform": "<Struct 'Transform' (0x000001A3E0CDA860) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: 400.000000, y: 0.000000, z: 600.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>"
+  },
+  {
+    "name": "power",
+    "used": true,
+    "powered": true,
+    "active": false,
+    "beam_collision": "<CollisionEnabled.NO_COLLISION: 0>"
+  },
+  {
+    "name": "power_gate_unlocked",
+    "unlocked": true
+  },
+  {
+    "name": "seal1",
+    "unlocked": true
+  },
+  {
+    "name": "door1",
+    "location": "<Struct 'Vector' (0x000001A480A7F980) {x: 0.000000, y: 0.000000, z: 720.000000}>"
+  },
+  {
+    "name": "wrong_symbol_respawn",
+    "position": "<Struct 'Vector' (0x000001A3A4BD9640) {x: 3600.000000, y: 0.000000, z: 597.650002}>",
+    "checkpoint": "<Struct 'Transform' (0x000001A3E0CDA860) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: 3600.000000, y: 0.000000, z: 600.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>"
+  },
+  {
+    "name": "seal2",
+    "unlocked": true
+  },
+  {
+    "name": "seal3",
+    "unlocked": true
+  },
+  {
+    "name": "shuttle",
+    "location": "<Struct 'Vector' (0x000001A3A4BD9640) {x: 6550.584335, y: 0.000000, z: 500.000000}>",
+    "pawn": "<Struct 'Vector' (0x000001A3A4BD9640) {x: 6550.584335, y: 0.000000, z: 609.650002}>"
+  },
+  {
+    "name": "fall_respawn",
+    "position": "<Struct 'Vector' (0x000001A3A4BD9780) {x: 7650.000000, y: 0.000000, z: 597.650002}>"
+  },
+  {
+    "name": "archive",
+    "unlocked": true
+  },
+  {
+    "name": "sprint_jump",
+    "x": 8091.123137184967,
+    "z": 595.3898846740087,
+    "speed": 600.0,
+    "jumped": true,
+    "falling": false
+  }
+]
