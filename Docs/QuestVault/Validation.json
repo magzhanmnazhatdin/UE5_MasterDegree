@@ -1,0 +1,35 @@
+{
+  "map": "/Game/QuestVault/Maps/L_QuestVault",
+  "actors": 288,
+  "compile": {
+    "blueprints": 19,
+    "errors": 0,
+    "warnings": 0,
+    "failed_loads": 0
+  },
+  "continuous_route": {
+    "passed": true,
+    "seconds": 110.64,
+    "steps": 40,
+    "teleports": false,
+    "note": "Button events invoked programmatically only after physical proximity check."
+  },
+  "integration": {
+    "passed": true,
+    "checks": 23,
+    "failed_checks": [],
+    "errors": []
+  },
+  "visual_review": [
+    "Overview",
+    "Entrance",
+    "Parkour",
+    "Puzzle",
+    "Finish",
+    "Archive"
+  ],
+  "scope_limits": [
+    "No new animated character ability.",
+    "Manual first-play duration and video submission remain for the user."
+  ]
+}
